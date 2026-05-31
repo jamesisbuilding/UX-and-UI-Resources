@@ -18,3 +18,21 @@ A collection of small, delightful UI details — the little touches and "spells"
 
 ### [Swishy](https://www.swishy.ai/)
 An AI-powered tool focused on UI/UX design workflows, helping speed up ideation and design iteration.
+
+### [Aceternity UI](https://ui.aceternity.com/)
+Free React + Tailwind components with bold, animated, framer-motion-heavy effects. Great for landing pages and anything that needs a "wow" moment.
+
+### [Magic UI](https://magicui.design/)
+Free shadcn-compatible component library focused on animations and marketing-page effects — marquees, beams, particles, shimmering text, and more.
+
+### [shadcn/ui](https://ui.shadcn.com/)
+The de facto standard for copy-paste React + Tailwind components. Beautifully designed, accessible, and the foundation many other libraries build on.
+
+### [Uiverse](https://uiverse.io/)
+A massive community gallery of free HTML/CSS components — buttons, loaders, cards, toggles. Endless inspiration for fun micro-interactions and creative styling.
+
+### [DaisyUI](https://daisyui.com/)
+A free Tailwind plugin that adds semantic component classes with distinctive, polished themes. Great for getting a cohesive look fast without locking into a framework.
+
+### [Park UI](https://park-ui.com/)
+A free, framework-agnostic component library (React, Vue, Solid) built on Ark UI with clean, modern design tokens and great defaults.
