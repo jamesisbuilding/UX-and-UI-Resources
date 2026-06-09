@@ -36,3 +36,6 @@ A free Tailwind plugin that adds semantic component classes with distinctive, po
 
 ### [Park UI](https://park-ui.com/)
 A free, framework-agnostic component library (React, Vue, Solid) built on Ark UI with clean, modern design tokens and great defaults.
+
+### [Cosmos](https://www.cosmos.so/jamesisbuilding/ux)
+A collection of mobile UIs found in cosmos. Arguably much better than pinterest or mobbbin for artistic UI designs. 
