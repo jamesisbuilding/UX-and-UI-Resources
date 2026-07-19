@@ -39,3 +39,6 @@ A free, framework-agnostic component library (React, Vue, Solid) built on Ark UI
 
 ### [Cosmos](https://www.cosmos.so/jamesisbuilding/ux)
 A collection of mobile UIs found in cosmos. Arguably much better than pinterest or mobbbin for artistic UI designs. 
+
+### [Laws of UX](https://lawsofux.com/)
+Full library of UI and UX design principles
