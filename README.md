@@ -13,6 +13,9 @@ A gallery of high-quality interaction and animation references from real apps. G
 ### [Mobbin](https://mobbin.com/)
 A massive searchable library of mobile and web app screenshots and user flows from real production apps. Ideal for competitive research, pattern discovery, and inspiration when designing flows.
 
+### [Screens Design](https://screensdesign.com/)
+AI Enabled screen shot analysis
+
 ### [Design Spells](https://designspells.com/)
 A collection of small, delightful UI details — the little touches and "spells" that make interfaces feel magical. Useful for finding inspiration for polish, hover states, and tiny moments of craft.
 
