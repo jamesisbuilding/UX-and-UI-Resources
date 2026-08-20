@@ -13,7 +13,7 @@ A gallery of high-quality interaction and animation references from real apps. G
 ### [Mobbin](https://mobbin.com/)
 A massive searchable library of mobile and web app screenshots and user flows from real production apps. Ideal for competitive research, pattern discovery, and inspiration when designing flows.
 
-### [Screens Design](https://screensdesign.com/)
+### [Screens Design](https://screensdesign.com/)
 AI Enabled screen shot analysis
 
 ### [Design Spells](https://designspells.com/)
@@ -46,7 +46,7 @@ A collection of mobile UIs found in cosmos. Arguably much better than pinterest 
 ### [Laws of UX](https://lawsofux.com/)
 Full library of UI and UX design principles
 
-### [Growth.design](https://growth.design/psychology)
+### [Growth.design](https://growth.design/psychology)
 Psychological principles of UI / UX
 
 ### [POW](https://movingparts.io/pow)
