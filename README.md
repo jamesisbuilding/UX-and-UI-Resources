@@ -52,4 +52,17 @@ Psychological principles of UI / UX
 ### [POW](https://movingparts.io/pow)
 iOS focused micro-interaction and transition library 
 
+## Agentic Skills 
+### [Impeccable](https://impeccable.style/docs/polish/)
+Skill suite to generate non slop and remove slop from AI generated designs
+
+### [UI / UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+An AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks.
+
+### [Scroll Craft](https://github.com/nateherkai/scroll-craft)
+Build beautiful scroll-based animations
+
+### [Epic Design](https://alirezarezvani.github.io/claude-skills/skills/engineering-team/epic-design/)
+Build cinematic level websites
+
 
