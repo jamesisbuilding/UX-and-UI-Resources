@@ -65,4 +65,7 @@ Build beautiful scroll-based animations
 ### [Epic Design](https://alirezarezvani.github.io/claude-skills/skills/engineering-team/epic-design/)
 Build cinematic level websites
 
+### [Mobile App UI Design](https://github.com/ceorkm/mobile-app-ui-design)
+Build mobile UIs like world class mobile apps
+
 
